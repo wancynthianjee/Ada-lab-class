@@ -1,0 +1,4 @@
+const items=[2,8,true,"seed"];
+const a= new Array(2,8,true,"seed");
+console.log(items)
+console.log(a)
